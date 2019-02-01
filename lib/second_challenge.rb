@@ -8,6 +8,8 @@ def second_challenge
 
   #code your solution here!
 
-  
-
+ new_array = groceries.values.join(" ")
+ new_array.split(" ")
+#or
+#groceries.values.flatten
 end
